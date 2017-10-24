@@ -1,0 +1,3 @@
+Incorporate basic movement cardinally and being able to move up and down Z-axis. -- Wed by 9pm (estimate: 1 hrs)
+Incorporate two characters you can switch between. -- Wed by 9pm (estimate: 1 hrs)
+Incorporate being able to teleport IF to boy. -- Wed by 9pm (estimate: 1 hrs)
